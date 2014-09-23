@@ -1,3 +1,4 @@
 Ceci est un autre fichier
 
 J'édite directement le fichier depuis github !
+J'édite le fichier en local aussi
