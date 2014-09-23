@@ -1,4 +1,4 @@
 demogit
 =======
 
-Démo de Git
+Démo de Git avec Openclassrooms
